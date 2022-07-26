@@ -1,4 +1,4 @@
-﻿altair==4.2.0
+altair==4.2.0
 anyio==3.6.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
@@ -37,7 +37,7 @@ GitPython==3.1.27
 greenlet==1.1.2
 h11==0.13.0
 h2==4.1.0
-heroku3
+heroku==0.1.4
 hpack==4.0.0
 httptools==0.4.0
 hypercorn==0.13.2
@@ -67,7 +67,7 @@ nbconvert==6.5.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.12
-numpy==1.19.2
+numpy==1.23.1
 outcome==1.2.0
 packaging==21.3
 pandas==1.4.3
@@ -94,13 +94,14 @@ Pympler==1.0.1
 PyMySQL==1.0.2
 pyparsing==3.0.9
 pyrsistent==0.18.1
-python-dateutil==2.8.2
+python-dateutil==1.5
 python-dotenv==0.20.0
 python-jose==3.3.0
 python-multipart==0.0.5
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pypiwin32==223
+pywin32==304
+pywinpty==2.0.6
 PyYAML==6.0
 pyzmq==23.2.0
 requests==2.27.1
@@ -108,7 +109,6 @@ rich==12.5.1
 rsa==4.9
 semver==2.13.0
 Send2Trash==1.8.0
-setuptools==59.8.0
 six==1.16.0
 smmap==5.0.0
 sniffio==1.2.0
@@ -140,4 +140,3 @@ Werkzeug==2.2.0
 widgetsnbextension==3.6.1
 wsproto==1.1.0
 zipp==3.8.1
-
