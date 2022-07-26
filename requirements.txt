@@ -67,7 +67,7 @@ nbconvert==6.5.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.12
-numpy==1.23.1
+numpy==1.19.2
 outcome==1.2.0
 packaging==21.3
 pandas==1.4.3
@@ -109,6 +109,7 @@ rich==12.5.1
 rsa==4.9
 semver==2.13.0
 Send2Trash==1.8.0
+setuptools==59.8.0
 six==1.16.0
 smmap==5.0.0
 sniffio==1.2.0
